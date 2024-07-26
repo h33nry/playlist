@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-KEY:METHOD=AES-128,URI="https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true"
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.4d4020",AUDIO="audio_0"
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/03.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/06.m3u8"
