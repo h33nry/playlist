@@ -49,11 +49,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6642f030d940521074f
 #KODIPROP:inputstream.adaptive.license_key=2cc95e339328cddb69ef742087fe5c8c:9a23f9ea4e6e033a2ddc91d2bb38da75
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65ab21b8d940521074f1222e_hbovodhd/dash0/IDN_index.mpd
 
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2023
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2023" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041607X0-portrait.jpg",Oprah And The Color Purple Journey 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -347,10 +342,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa69ead940521074d
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nob7hUX5wapVXHyb7gJ0cQ","kid":"hldqEDRUocJsc5ouqLKziw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012f6fd940521074e137e1_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2022
-//========================================================================
 
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2022" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039482X0-portrait.jpg",Lizzo: Live In Concert 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1059,10 +1050,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62038b3ed9405210749
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rOjEp/rhGUgVrTb1hHvoXA","kid":"/dEg8ce598a5m2Ym3cH9FA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b740d4_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2021
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2021" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037632X0-portrait.jpg",The Super Bob Einstein Movie 2021
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1553,10 +1540,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/615ea4409a11bf7ccbf
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7hn5G//oReHaCkEFbboqwQ","kid":"bla9GvGtSkKyD7SuvGcAMg"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61c1add0fbbcc21f45d339fe_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2016-2020
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2016-2020" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030581X0-portrait.jpg",Wonder Woman 1984 2020
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1836,10 +1819,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648288d7d940521074d
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pQyDgGYDHFvy6XPAAmzTlQ","kid":"wUjYliRiWE+gnkrfdpzG2w"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a496c2bd0bb5cd89eab5f_hbovodhd/dash0/IDN_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2016-2020
-//========================================================================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2601,10 +2580,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ed34acbea8a6a4ee
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y7/JzopvEW7LJcDeFh0iCg","kid":"reKulbGwXB+0QGYLNoX+sw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/608689d86d048943f77d5881_hbovodhd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2016-2020
-//========================================================================
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3364,10 +3339,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e173ccbea8a6a4ee
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o98z2E2Uqt5e+JdA431lFQ","kid":"tLmFGWf9US+gYtpvPZRzJQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8d949dcbea8a6a4eef5435_hbovodhd/dash0/IDN_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2011-2015
-//========================================================================
 
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2011-2015" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021251X0-portrait.jpg",Alvin And The Chipmunks: The Road Chip 2015
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4427,10 +4398,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa13ccd940521074d
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GrLxQPnIy838zQBQ0o0msA","kid":"psNQh7ICUidsaesw6SGZPw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64b5fa04d940521074da263c_hbovodhd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2011-2015
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2011-2015" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028554X0-portrait.jpg",Scooby-Doo! Mask Of The Blue Falcon 2012
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4703,10 +4670,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa2076d940521074d
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pv2xLukvee8Fw4I46ttlNQ","kid":"wD5DbVZ9U822I3fhN3IQ4g"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c7584be7189575a8ced1e_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2011-2015
-//========================================================================
 
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2011-2015" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014191X0-portrait.jpg",Mission: Impossible Ghost Protocol 2011
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5479,10 +5442,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c91164aba74fe65548
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"57hPczLI0qE7/DGxCsVDzQ","kid":"gb+OmYtQXT+dBqvK39au8g"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c768888be7189575a8c5c9b_hbovodhd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2006-2010
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2006-2010" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/012525X0-portrait.jpg",Einstein And Eddington 2008
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5762,10 +5721,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dea63d4cbea8a6a4ef
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"S+ABy1QFMdrR19tSBddFLw","kid":"zusUjXX/XIyh+F9YcGYFgg"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c76893ebe7189575a8c5cb2_hbovodhd/dash0/IDN_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2006-2010
-//========================================================================
 
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2006-2010" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040968X0-portrait.jpg",Charlie Wilson'S War 2007
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6082,10 +6037,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90d650ba74fe65548
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k2gprwihzk+dVXMiyfnqKg","kid":"6Py0IljzVT2f3Q+YYWJuYw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c79f8a1be7189575a8cb044_hbovodhd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2006-2010
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2006-2010" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019536X0-portrait.jpg",Tsunami, The Aftermath Part 2 2006
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6302,10 +6253,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c769834be7189575a8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mdVfvoY76caADf/Wt8+rjg","kid":"jk0gWJZ7W9SZuQeIsK+ADw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90bbd0ba74fe65548cae7b_hbovodsd/dash0/IDN_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2001-2005
-//========================================================================
 
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2001-2005" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016474X0-portrait.jpg",King Kong (2005) 2005
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6594,10 +6541,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e0b53cbea8a6a4ee
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gAhh/bj0CSoS292tahcU+w","kid":"f7RUViTBabVo2xFdAeE8dQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa16bfd940521074d9095f_hbovodhd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2001-2005
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2001-2005" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/031761X0-portrait.jpg",The Aviator 2004
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6780,10 +6723,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dbf8f90cbea8a6a4ef
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b7tyFvBuVtz0Sl79OkVlew","kid":"fZBI5cFDVTyW8RAu7Qs2Vw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c718bbe7189575a8ceca9_hbovodhd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2001-2005
-//========================================================================
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6910,10 +6849,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c9117aeba74fe65548
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VJ1LrTxNxm0oq2e3XtuS0w","kid":"nshgYsAXW7OxzYFXMm5Wsw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c911700ba74fe65548cb804_hbovodsd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2001-2005
-//========================================================================
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -7032,10 +6967,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912ef6ba74fe65548
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cbhBPtYRWvdIgloMKEKVkQ","kid":"feY1OY8gXS66FrmjCr4UrQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c77c416be7189575a8c7a7d_hbovodhd/dash0/IDN_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2001-2005
-//========================================================================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7177,10 +7108,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c911699ba74fe65548
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9FEOHiTqmSHybaxothrprQ","kid":"1lTjWwOdU8KWJtxnY66UzQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c766663be7189575a8c58e8_hbovodhd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 1996-2000
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 1996-2000" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/012962X0-portrait.jpg",Traffic 2000
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7243,10 +7170,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c91219cba74fe65548
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Eruy0pmjWllorh5YvzWxPA","kid":"dKgr7t5CUZK1EVIERM7YtA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912721ba74fe65548cb9cf_hbovodsd/dash0/IDN_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 1996-2000
-//========================================================================
 
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 1996-2000" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018042X0-portrait.jpg",Witness Protection 1999
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7381,10 +7304,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c911f94ba74fe65548
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x+TQ5s/S1avtZYwF83fjeA","kid":"Z00URToZWyGSeOu757zA9w"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c9122f0ba74fe65548cb95b_hbovodsd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 1996-2000
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 1996-2000" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022267X0-portrait.jpg",The Faculty 1998
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7475,10 +7394,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/619739a6fbbcc21f45c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"39SsbTPbNUQCjGvDMZK6tA","kid":"nzSAR2KxVt+J0s2iBmUNZw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912adeba74fe65548cba3c_hbovodsd/dash0/IDN_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 1996-2000
-//========================================================================
 
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 1996-2000" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014934X0-portrait.jpg",Switchback 1997
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7659,10 +7574,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90dae6ba74fe65548
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YEeZ4c9UgB17RydT36Jfwg","kid":"MVmfJuVSikUENmDWWYs1Cg"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6431f52cd940521074cdc879_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 1991-1995
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 1991-1995" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016336X0-portrait.jpg",The Tuskegee Airmen 1995
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7746,10 +7657,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c790a23be7189575a8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TK0vdtR0UKxT9wB/EdaY1Q","kid":"hi2h/qyxXTOFzl5w2il9vQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912286ba74fe65548cb94f_hbovodsd/dash0/IDN_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 1991-1995
-//========================================================================
 
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 1991-1995" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018037X0-portrait.jpg",Witch Hunt 1994
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7944,10 +7851,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c750f12be7189575a8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fj2fkAqjST+m01ZcnJGDhw","kid":"FC2Sy8smW46U65oxU2zhEQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c911763ba74fe65548cb80f_hbovodsd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 1991-1995
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 1991-1995" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015602X0-portrait.jpg",Bloodbrothers: The Joey Dipaolo Story 1992
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8018,10 +7921,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dcd18cbea8a6a4ee
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ArtkFC4CcCoOxlk62oG3dQ","kid":"rIyGUiGfUBGx04tLm8jSzA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912443ba74fe65548cb980_hbovodsd/dash0/IDN_index.mpd
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 1991-1995
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 1991-1995" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018071X0-portrait.jpg",Cast A Deadly Spell 1991
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8035,10 +7934,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c79e60bbe7189575a8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cox0DTLgE83b3y18v36hbg","kid":"URHILFlFXcurWNbAVdFVGA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c9114e7ba74fe65548cb7c9_hbovodsd/dash0/IDN_index.mpd
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 1975-1990
-//========================================================================
 
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 1975-1990" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029392X0-portrait.jpg",Tom And Jerry'S 50Th Birthday Bash 1990
 #KODIPROP:inputstreamaddon=inputstream.adaptive
