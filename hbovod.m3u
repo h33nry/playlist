@@ -1,10 +1,5 @@
 #EXTM3U
 
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2024
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2024" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042181X0-portrait.jpg",Am I Ok? 2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
